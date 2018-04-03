@@ -1,4 +1,4 @@
-CHAINDATA_DIR = 'chaindata/'
+CHAINDATA_DIR = '/Users/fpschina/PycharmProjects/myjbc/chaindata/'
 NUM_ZEROS = 6
 
 PEERS = [
